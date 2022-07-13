@@ -1,0 +1,25 @@
+[{
+    "question": "Which of those is NOT a legal variable name in Python?",
+    "choice1": "help_me",
+    "choice2": "help-me",
+    "choice3": "Helpme",
+    "choice4": "_helpme",
+    "answer": 2
+  },
+  {
+    "question":"Which statement do you use to simply stop a loop?",
+    "choice1": "exit",
+    "choice2": "break",
+    "choice3": "return",
+    "choice4": "stop",
+    "answer": 2
+  },
+  {
+    "question": "Which method can be used to remove whitespaces from the beginning and end of a string?",
+    "choice1": "ptrim()",
+    "choice2": "strip()",
+    "choice3": "len()",
+    "choice4": "trim()",
+    "answer": 2
+  }
+]
